@@ -1,7 +1,9 @@
 
 body {
-	color: Yellow;
+	color: Black;
 }
 p {
 	color: #77bb9;
+	font-family: verdana;
+	font-size: 20px;
 }
